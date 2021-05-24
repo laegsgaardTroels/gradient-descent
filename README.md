@@ -1,3 +1,3 @@
-# Hodrick Prescott Filtering
+# Gradient Descent
 
-An example of Hodrick Prescott Filtering and some thoughts.
+An example of gradient descent.
